@@ -26,7 +26,6 @@ public class leftRight {
         Scanner scn=new Scanner(System.in);
         System.out.println("Enter Array Size");
         int n =scn.nextInt();
-        System.out.println(n);
         int [] array = new int [n];
 
         for(int i =0;i<n;i++)

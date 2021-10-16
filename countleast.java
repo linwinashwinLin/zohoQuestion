@@ -6,7 +6,6 @@ public class countleast {
         Scanner scn=new Scanner(System.in);
         System.out.println("Enter The Array Size");
         int n =scn.nextInt();
-        System.out.println(n);
         int [] array = new int [n];
         int [] array2 = new int [n];
         for(int i =0;i<n;i++)
